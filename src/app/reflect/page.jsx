@@ -10,15 +10,15 @@ import RenderedScenes from "../rendered_scenes/page";
 //images design
 import render1 from '/public/interior_design/render1.jpg'
 import render2 from '/public/interior_design/render2.jpg'
-import render6 from '/public/interior_design/render6.png'
-import render7 from '/public/interior_design/render7.png'
-import render8 from '/public/interior_design/render8.png'
+import render6 from '/public/interior_design/render6.jpg'
+import render7 from '/public/interior_design/render7.jpg'
+import render8 from '/public/interior_design/render8.jpg'
 
 //images bentley
-import render3 from '/public/bentley/render3.png'
-import render4 from '/public/bentley/render4.png'
-import render10 from '/public/bentley/render10.png'
-import render11 from '/public/bentley/render11.png'
+import render3 from '/public/bentley/render3.jpg'
+import render4 from '/public/bentley/render4.jpg'
+import render10 from '/public/bentley/render10.jpg'
+import render11 from '/public/bentley/render11.jpg'
 
 //video viewport
 import scene1 from '/public/scenes/azi/scene1.mp4'
