@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-const Viewport = ({ videoSrc }) => {
+export default function Viewport ({ videoSrc }) {
   return (
     <div className="bg-gray-800 rounded-lg h-60 flex items-center justify-center text-xl">
       <video controls className="w-full h-full object-cover rounded-lg">
@@ -12,4 +12,3 @@ const Viewport = ({ videoSrc }) => {
   );
 };
 
-export default Viewport;
