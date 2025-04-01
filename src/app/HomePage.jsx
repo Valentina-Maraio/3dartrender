@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import logo from '/public/bentley/render3.png'
+import logo from '/public/bentley/render3.jpg'
 
 export default function HomePage() {
     return (
